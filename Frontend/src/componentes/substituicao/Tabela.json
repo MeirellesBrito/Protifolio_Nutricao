@@ -1,0 +1,477 @@
+[
+	{
+		"description": "Abacate",
+		"group": "Frutas",
+		"quantity": 96
+	},
+	{
+		"description": "Abacate",
+		"group": "Gordura Vegetal",
+		"quantity": 96
+	},
+	{
+		"description": "Abacaxi",
+		"group": "Frutas",
+		"quantity": 48
+	},
+	{
+		"description": "Abóbora Cabotian",
+		"group": "Carboidratos",
+		"quantity": 55
+	},
+	{
+		"description": "Água de Coco",
+		"group": "Carboidratos",
+		"quantity": 21
+	},
+	{
+		"description": "Ameixa",
+		"group": "Frutas",
+		"quantity": 52
+	},
+	{
+		"description": "Amêndoas",
+		"group": "Gordura Vegetal",
+		"quantity": 575
+	},
+	{
+		"description": "Amendoim",
+		"group": "Gordura Vegetal",
+		"quantity": 544
+	},
+	{
+		"description": "Amora",
+		"group": "Frutas",
+		"quantity": 43
+	},
+	{
+		"description": "Arroz branco ou integral",
+		"group": "Carboidratos",
+		"quantity": 125
+	},
+	{
+		"description": "Atum em água e sal",
+		"group": "Proteína",
+		"quantity": 165
+	},
+	{
+		"description": "Atum Light",
+		"group": "Proteína",
+		"quantity": 67
+	},
+	{
+		"description": "Aveia",
+		"group": "Carboidratos",
+		"quantity": 394
+	},
+	{
+		"description": "Banana",
+		"group": "Frutas",
+		"quantity": 91
+	},
+	{
+		"description": "Batata Baroa (Mandioquinha)",
+		"group": "Carboidratos",
+		"quantity": 80
+	},
+	{
+		"description": "Batata Doce",
+		"group": "Carboidratos",
+		"quantity": 77
+	},
+	{
+		"description": "Batata Inglesa",
+		"group": "Carboidratos",
+		"quantity": 52
+	},
+	{
+		"description": "Caju",
+		"group": "Frutas",
+		"quantity": 43
+	},
+	{
+		"description": "Camarão Cozido ou Assado",
+		"group": "Proteína",
+		"quantity": 90
+	},
+	{
+		"description": "Caqui",
+		"group": "Frutas",
+		"quantity": 71
+	},
+	{
+		"description": "Carne vermelha magra",
+		"group": "Proteína",
+		"quantity": 193
+	},
+	{
+		"description": "Castanha Do Pará",
+		"group": "Gordura Vegetal",
+		"quantity": 643
+	},
+	{
+		"description": "Clara de Ovo",
+		"group": "Proteína",
+		"quantity": 59
+	},
+	{
+		"description": "Cuscuz (desidratado)",
+		"group": "Carboidratos",
+		"quantity": 376
+	},
+	{
+		"description": "Damasco",
+		"group": "Frutas",
+		"quantity": 48
+	},
+	{
+		"description": "Doce de Leite",
+		"group": "Carboidratos",
+		"quantity": 315
+	},
+	{
+		"description": "Farinha de Mandioca",
+		"group": "Carboidratos",
+		"quantity": 365
+	},
+	{
+		"description": "Feijão",
+		"group": "Carboidratos",
+		"quantity": 78
+	},
+	{
+		"description": "Fígado Bovino",
+		"group": "Proteína",
+		"quantity": 225
+	},
+	{
+		"description": "Figo",
+		"group": "Frutas",
+		"quantity": 41
+	},
+	{
+		"description": "Filé de frango",
+		"group": "Proteína",
+		"quantity": 162
+	},
+	{
+		"description": "Framboesa",
+		"group": "Frutas",
+		"quantity": 53
+	},
+	{
+		"description": "Goiaba",
+		"group": "Frutas",
+		"quantity": 54
+	},
+	{
+		"description": "Iogurte 2 Ingredientes Nestlé Desnatado",
+		"group": "Laticíneos",
+		"quantity": 35
+	},
+	{
+		"description": "Iogurte 2 Ingredientes Nestlé Integral",
+		"group": "Laticíneos",
+		"quantity": 74
+	},
+	{
+		"description": "Iogurte Batavo Grego Zero 10+ Pedaços",
+		"group": "Laticíneos",
+		"quantity": 60
+	},
+	{
+		"description": "Iogurte Grego Vigor Zero",
+		"group": "Laticíneos",
+		"quantity": 54
+	},
+	{
+		"description": "Jabuticaba",
+		"group": "Frutas",
+		"quantity": 58
+	},
+	{
+		"description": "Kiwi",
+		"group": "Frutas",
+		"quantity": 51
+	},
+	{
+		"description": "Laranja",
+		"group": "Frutas",
+		"quantity": 37
+	},
+	{
+		"description": "Leite Desnatado",
+		"group": "Laticíneos",
+		"quantity": 33
+	},
+	{
+		"description": "Leite em pó Desnatado",
+		"group": "Laticíneos",
+		"quantity": 345
+	},
+	{
+		"description": "Leite em pó Integral",
+		"group": "Laticíneos",
+		"quantity": 496
+	},
+	{
+		"description": "Leite Integral",
+		"group": "Laticíneos",
+		"quantity": 56
+	},
+	{
+		"description": "Leite Semidesnatado",
+		"group": "Laticíneos",
+		"quantity": 48
+	},
+	{
+		"description": "Lentilha",
+		"group": "Carboidratos",
+		"quantity": 116
+	},
+	{
+		"description": "Lombo Suíno",
+		"group": "Proteína",
+		"quantity": 210
+	},
+	{
+		"description": "Maçã",
+		"group": "Frutas",
+		"quantity": 55
+	},
+	{
+		"description": "Macarrão",
+		"group": "Carboidratos",
+		"quantity": 125
+	},
+	{
+		"description": "Mamão",
+		"group": "Frutas",
+		"quantity": 45
+	},
+	{
+		"description": "Mandioca",
+		"group": "Carboidratos",
+		"quantity": 125
+	},
+	{
+		"description": "Manga",
+		"group": "Frutas",
+		"quantity": 72
+	},
+	{
+		"description": "Mel",
+		"group": "Carboidratos",
+		"quantity": 304
+	},
+	{
+		"description": "Melancia",
+		"group": "Frutas",
+		"quantity": 32
+	},
+	{
+		"description": "Melão",
+		"group": "Frutas",
+		"quantity": 29
+	},
+	{
+		"description": "Morango",
+		"group": "Frutas",
+		"quantity": 30
+	},
+	{
+		"description": "Nozes",
+		"group": "Gordura Vegetal",
+		"quantity": 620
+	},
+	{
+		"description": "Óleos vegetais",
+		"group": "Gordura Vegetal",
+		"quantity": 884
+	},
+	{
+		"description": "Pão",
+		"group": "Carboidratos",
+		"quantity": 294
+	},
+	{
+		"description": "Peixe de Água Doce",
+		"group": "Proteína",
+		"quantity": 121
+	},
+	{
+		"description": "Pêra",
+		"group": "Frutas",
+		"quantity": 60
+	},
+	{
+		"description": "Pêssego",
+		"group": "Frutas",
+		"quantity": 36
+	},
+	{
+		"description": "Physalis",
+		"group": "Frutas",
+		"quantity": 49
+	},
+	{
+		"description": "Pinhão",
+		"group": "Carboidratos",
+		"quantity": 160
+	},
+	{
+		"description": "Pipoca",
+		"group": "Carboidratos",
+		"quantity": 377
+	},
+	{
+		"description": "Polenta",
+		"group": "Carboidratos",
+		"quantity": 187
+	},
+	{
+		"description": "Polpa de Açaí",
+		"group": "Carboidratos",
+		"quantity": 64
+	},
+	{
+		"description": "Queijo Cottage",
+		"group": "Laticíneos",
+		"quantity": 98
+	},
+	{
+		"description": "Queijo Minas Frescal",
+		"group": "Laticíneos",
+		"quantity": 264
+	},
+	{
+		"description": "Queijo Minas Meia Cura",
+		"group": "Laticíneos",
+		"quantity": 320
+	},
+	{
+		"description": "Queijo Quark",
+		"group": "Laticíneos",
+		"quantity": 81
+	},
+	{
+		"description": "Queijo Ricota",
+		"group": "Laticíneos",
+		"quantity": 139
+	},
+	{
+		"description": "Queijos Amarelos",
+		"group": "Laticíneos",
+		"quantity": 359
+	},
+	{
+		"description": "Salmão Sem Pele",
+		"group": "Proteína",
+		"quantity": 242
+	},
+	{
+		"description": "Soja Texturizada Crua",
+		"group": "Proteína",
+		"quantity": 336
+	},
+	{
+		"description": "Tâmara",
+		"group": "Frutas",
+		"quantity": 282
+	},
+	{
+		"description": "Tapioca",
+		"group": "Carboidratos",
+		"quantity": 340
+	},
+	{
+		"description": "Tofu Cru",
+		"group": "Proteína",
+		"quantity": 80
+	},
+	{
+		"description": "Uva",
+		"group": "Frutas",
+		"quantity": 49
+	},
+	{
+		"description": "Ovo Inteiro",
+		"group": "Proteína",
+		"quantity": 122
+	},
+	{
+		"description": "Whey Protein",
+		"group": "Proteína",
+		"quantity": 319
+	},
+	{
+		"description": "Albumina",
+		"group": "Proteína",
+		"quantity": 329
+	},
+	{
+		"description": "Palmito",
+		"group": "Carboidratos",
+		"quantity": 115
+	},
+	{
+		"description": "Bergamota-Tangerina",
+		"group": "Frutas",
+		"quantity": 58
+	},
+	{
+		"description": "Acerola",
+		"group": "Frutas",
+		"quantity": 32
+	},
+	{
+		"description": "Requeijão Light",
+		"group": "Laticíneos",
+		"quantity": 182
+	},
+	{
+		"description": "Grão de Bico",
+		"group": "Carboidratos",
+		"quantity": 164
+	},
+	{
+		"description": "Mirtilo",
+		"group": "Frutas",
+		"quantity": 57
+	},
+	{
+		"description": "Amido de Milho",
+		"group": "Carboidratos",
+		"quantity": 340
+	},
+	{
+		"description": "Maracujá",
+		"group": "Frutas",
+		"quantity": 107
+	},
+	{
+		"description": "Leite Condensado",
+		"group": "Carboidratos",
+		"quantity": 321
+	},
+	{
+		"description": "Carambola",
+		"group": "Frutas",
+		"quantity": 31
+	},
+	{
+		"description": "Milho",
+		"group": "Carboidratos",
+		"quantity": 160
+	},
+	{
+		"description": "Suco de uva integral",
+		"group": "Carboidratos",
+		"quantity": 60
+	},
+	{
+		"description": "Pitaya",
+		"group": "Frutas",
+		"quantity": 51
+	}
+]

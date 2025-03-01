@@ -1,0 +1,35 @@
+
+http://164.92.123.103/
+
+Liste as imagens disponíveis no Docker:
+docker images
+
+Exporte a imagem desejada para um arquivo .tar:
+docker save -o meu-projeto.tar meu-projeto:latest
+
+Transfira o arquivo para o servidor:
+scp meu-projeto.tar usuario@seu-servidor:/caminho/desejado/
+
+Acesse o servidor via SSH:
+ssh usuario@seu-servidor
+
+Verifique se o arquivo foi transferido corretamente:
+ls /caminho/desejado/
+Importe a imagem para o Docker no servidor:
+docker load -i /caminho/desejado/meu-projeto.tar
+
+Verifique se a imagem foi importada:
+docker images
+
+Rode um container para testar:
+docker run -d -p 8080:80 meu-projeto:latest
+
+
+docker save -o portifolio_kr-frontend.tar portifolio_kr-frontend:latest
+
+scp portifolio_kr-frontend.tar root@164.92.123.103:Projetos/kr_consultoria
+
+
+docker load -i portifolio_kr-frontend.tar
+
+docker run -d -p 3008:3008 portifolio_kr-frontend:latest

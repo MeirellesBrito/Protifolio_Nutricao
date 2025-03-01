@@ -1,0 +1,46 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@import "tailwindcss";
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #595959;
+  background-attachment: fixed;
+  /* width: 100svw; */
+  height: 100vh;
+}
+
+.fundo_escuro {
+  background-color: rgba(31, 31, 31, 1);
+}
+
+/* styles.css */
+.slick-dots li button:before {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  color: white !important;
+  opacity: 1 !important;
+}
+
+.slick-dots li.slick-active button:before {
+  color: rgb(0, 0, 0) !important;
+  opacity: 1 !important;
+}
+
+.teste01 {
+  background-color: green;
+}
+.teste02 {
+  background-color: brown;
+}
+
+.teste03 {
+  background-color: blue;
+}
